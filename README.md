@@ -7,6 +7,8 @@
 
 * /guild invite - 받은 길드 초대장 목록을 봅니다
 
+* /g <text> - 길드 채팅을 보냅니다
+
 [GITHUB](https://github.com/minyee2913/guild-korean)
 
 ## API
