@@ -7,7 +7,7 @@
 
 * /guild invite - 받은 길드 초대장 목록을 봅니다
 
-(GITHUB)[https://github.com/minyee2913/guild-korean]
+[GITHUB](https://github.com/minyee2913/guild-korean)
 
 ## API
 ```ts
