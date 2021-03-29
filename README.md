@@ -1,12 +1,13 @@
 ## @bdsx/guild-korean
 
-## 명령어
+# 명령어
 * /guild - 길드창을 띄웁니다
 
 * /길드 - 길드창을 띄웁니다
 
 * /guild invite - 받은 길드 초대장 목록을 봅니다
 
+GITHUB[https://github.com/minyee2913/guild-korean]
 
 ## API
 ```ts
