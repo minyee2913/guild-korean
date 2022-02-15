@@ -13,7 +13,7 @@
 
 ## API
 ```ts
-import { addXp } from '@bdsx/guild-korean';
+import { addXp } from '@bdsx/guild-korean/guild';
 import { command } from 'bdsx';
 import { int32_t } from "bdsx/nativetype";
 
